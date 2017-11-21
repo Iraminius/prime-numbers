@@ -1,0 +1,24 @@
+{
+  "name": "prime-numbers",
+  "version": "1.0.0",
+  "description": "JS library for prime numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iraminius/prime-numbers.git"
+  },
+  "keywords": [
+    "prime",
+    "numbers",
+    "random"
+  ],
+  "author": "Iraminius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Iraminius/prime-numbers/issues"
+  },
+  "homepage": "https://github.com/Iraminius/prime-numbers#readme"
+}
