@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/Iraminius/prime-numbers/issues"
   },
-  "homepage": "https://github.com/Iraminius/prime-numbers#readme"
+  "homepage": "https://github.com/Iraminius/prime-numbers#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  },
+  "dependencies": {
+    "big-integer": "^1.6.26"
+  }
 }
